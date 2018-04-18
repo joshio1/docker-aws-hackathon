@@ -1,0 +1,17 @@
+{
+  "name": "queue",
+  "version": "0.0.0",
+  "description": "redis playground",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.12.3"
+  },
+  "dependencies": {
+    "dockerode": "^2.5.5"
+  }
+}
